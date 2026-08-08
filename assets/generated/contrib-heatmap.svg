@@ -1098,7 +1098,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.31s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="115" to="121" begin="1.31s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="589" y="130" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="589" y="130" width="12" height="12" rx="2" ry="2" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.34s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="130" to="136" begin="1.34s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1482,11 +1482,11 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.67s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="85" to="91" begin="1.67s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="799" y="100" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="799" y="100" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="100" to="106" begin="1.70s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="799" y="115" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="799" y="115" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.73s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="115" to="121" begin="1.73s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1524,7 +1524,7 @@
     </rect>
   </g>
   <g id="footer">
-    <text x="34" y="172" class="footer-text">31 contributions in the last year</text>
+    <text x="34" y="172" class="footer-text">38 contributions in the last year</text>
     <text x="670" y="172" class="label-text">Less</text>
     <rect x="705" y="162" width="12" height="12" rx="2" ry="2" fill="#161b22" />
     <rect x="722" y="162" width="12" height="12" rx="2" ry="2" fill="#0e4429" />
