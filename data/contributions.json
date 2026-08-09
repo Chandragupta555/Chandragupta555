@@ -1,41 +1,6 @@
 {
   "days": [
     {
-      "date": "2025-08-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-04",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-05",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-06",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-07",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-08",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-09",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-08-10",
       "count": 0,
       "level": 0
@@ -1852,14 +1817,19 @@
     },
     {
       "date": "2026-08-08",
-      "count": 7,
+      "count": 8,
       "level": 3
+    },
+    {
+      "date": "2026-08-09",
+      "count": 2,
+      "level": 1
     }
   ],
   "stats": {
-    "total": 38,
-    "current_streak": 3,
-    "longest_streak": 3,
+    "total": 41,
+    "current_streak": 4,
+    "longest_streak": 4,
     "best_day": {
       "date": "2026-08-04",
       "count": 11
@@ -1877,7 +1847,7 @@
       "2026-05": 0,
       "2026-06": 0,
       "2026-07": 5,
-      "2026-08": 23
+      "2026-08": 26
     }
   }
 }
