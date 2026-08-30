@@ -24,18 +24,18 @@
   </g>
   <g id="month-labels">
     <text x="34" y="34" class="label-text">Aug</text>
-    <text x="49" y="34" class="label-text">Sep</text>
-    <text x="109" y="34" class="label-text">Oct</text>
-    <text x="169" y="34" class="label-text">Nov</text>
-    <text x="244" y="34" class="label-text">Dec</text>
-    <text x="304" y="34" class="label-text">Jan</text>
-    <text x="379" y="34" class="label-text">Feb</text>
-    <text x="439" y="34" class="label-text">Mar</text>
-    <text x="499" y="34" class="label-text">Apr</text>
-    <text x="559" y="34" class="label-text">May</text>
-    <text x="634" y="34" class="label-text">Jun</text>
-    <text x="694" y="34" class="label-text">Jul</text>
-    <text x="754" y="34" class="label-text">Aug</text>
+    <text x="34" y="34" class="label-text">Sep</text>
+    <text x="94" y="34" class="label-text">Oct</text>
+    <text x="154" y="34" class="label-text">Nov</text>
+    <text x="229" y="34" class="label-text">Dec</text>
+    <text x="289" y="34" class="label-text">Jan</text>
+    <text x="364" y="34" class="label-text">Feb</text>
+    <text x="424" y="34" class="label-text">Mar</text>
+    <text x="484" y="34" class="label-text">Apr</text>
+    <text x="544" y="34" class="label-text">May</text>
+    <text x="619" y="34" class="label-text">Jun</text>
+    <text x="679" y="34" class="label-text">Jul</text>
+    <text x="739" y="34" class="label-text">Aug</text>
   </g>
   <g id="heatmap-boxes">
     <rect x="34" y="40" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
@@ -58,7 +58,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="0.17s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="100" to="106" begin="0.17s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="34" y="115" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="34" y="115" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="115" to="121" begin="0.20s" dur="0.30s" fill="freeze" />
     </rect>
@@ -86,7 +86,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="100" to="106" begin="0.20s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="49" y="115" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
+    <rect x="49" y="115" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.23s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="115" to="121" begin="0.23s" dur="0.30s" fill="freeze" />
     </rect>
@@ -670,7 +670,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="85" to="91" begin="0.80s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="364" y="100" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="364" y="100" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.83s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="100" to="106" begin="0.83s" dur="0.30s" fill="freeze" />
     </rect>
@@ -698,7 +698,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="0.83s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="85" to="91" begin="0.83s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="379" y="100" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
+    <rect x="379" y="100" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.86s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="100" to="106" begin="0.86s" dur="0.30s" fill="freeze" />
     </rect>
@@ -874,7 +874,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.07s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="115" to="121" begin="1.07s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="469" y="130" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="469" y="130" width="12" height="12" rx="2" ry="2" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.10s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="130" to="136" begin="1.10s" dur="0.30s" fill="freeze" />
     </rect>
@@ -902,7 +902,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.10s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="115" to="121" begin="1.10s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="484" y="130" width="12" height="12" rx="2" ry="2" fill="#006d32" opacity="0">
+    <rect x="484" y="130" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.13s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="130" to="136" begin="1.13s" dur="0.30s" fill="freeze" />
     </rect>
@@ -986,7 +986,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.19s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="115" to="121" begin="1.19s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="529" y="130" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="529" y="130" width="12" height="12" rx="2" ry="2" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.22s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="130" to="136" begin="1.22s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1014,7 +1014,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.22s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="115" to="121" begin="1.22s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="544" y="130" width="12" height="12" rx="2" ry="2" fill="#006d32" opacity="0">
+    <rect x="544" y="130" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.25s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="130" to="136" begin="1.25s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1330,11 +1330,11 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.43s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="40" to="46" begin="1.43s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="724" y="55" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="724" y="55" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.46s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="55" to="61" begin="1.46s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="724" y="70" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="724" y="70" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.49s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="70" to="76" begin="1.49s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1358,11 +1358,11 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.46s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="40" to="46" begin="1.46s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="739" y="55" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
+    <rect x="739" y="55" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.49s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="55" to="61" begin="1.49s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="739" y="70" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
+    <rect x="739" y="70" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.52s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="70" to="76" begin="1.52s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1370,11 +1370,11 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.55s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="85" to="91" begin="1.55s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="739" y="100" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="739" y="100" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.58s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="100" to="106" begin="1.58s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="739" y="115" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="739" y="115" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.61s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="115" to="121" begin="1.61s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1386,11 +1386,11 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.49s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="40" to="46" begin="1.49s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="754" y="55" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="754" y="55" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.52s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="55" to="61" begin="1.52s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="754" y="70" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="754" y="70" width="12" height="12" rx="2" ry="2" fill="#39d353" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.55s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="70" to="76" begin="1.55s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1406,11 +1406,11 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.64s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="115" to="121" begin="1.64s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="754" y="130" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="754" y="130" width="12" height="12" rx="2" ry="2" fill="#39d353" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.67s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="130" to="136" begin="1.67s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="769" y="40" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="769" y="40" width="12" height="12" rx="2" ry="2" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.52s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="40" to="46" begin="1.52s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1418,11 +1418,11 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.55s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="55" to="61" begin="1.55s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="769" y="70" width="12" height="12" rx="2" ry="2" fill="#39d353" opacity="0">
+    <rect x="769" y="70" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.58s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="70" to="76" begin="1.58s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="769" y="85" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
+    <rect x="769" y="85" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.61s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="85" to="91" begin="1.61s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1430,7 +1430,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.64s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="100" to="106" begin="1.64s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="769" y="115" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
+    <rect x="769" y="115" width="12" height="12" rx="2" ry="2" fill="#26a641" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.67s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="115" to="121" begin="1.67s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1438,7 +1438,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="130" to="136" begin="1.70s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="784" y="40" width="12" height="12" rx="2" ry="2" fill="#006d32" opacity="0">
+    <rect x="784" y="40" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.55s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="40" to="46" begin="1.55s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1458,11 +1458,11 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.67s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="100" to="106" begin="1.67s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="784" y="115" width="12" height="12" rx="2" ry="2" fill="#26a641" opacity="0">
+    <rect x="784" y="115" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="115" to="121" begin="1.70s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="784" y="130" width="12" height="12" rx="2" ry="2" fill="#39d353" opacity="0">
+    <rect x="784" y="130" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.73s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="130" to="136" begin="1.73s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1482,11 +1482,11 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.67s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="85" to="91" begin="1.67s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="799" y="100" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
+    <rect x="799" y="100" width="12" height="12" rx="2" ry="2" fill="#26a641" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="100" to="106" begin="1.70s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="799" y="115" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
+    <rect x="799" y="115" width="12" height="12" rx="2" ry="2" fill="#39d353" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.73s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="115" to="121" begin="1.73s" dur="0.30s" fill="freeze" />
     </rect>
@@ -1494,37 +1494,13 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.76s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="130" to="136" begin="1.76s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="814" y="40" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
+    <rect x="814" y="40" width="12" height="12" rx="2" ry="2" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.61s" dur="0.30s" fill="freeze" />
       <animate attributeName="y" from="40" to="46" begin="1.61s" dur="0.30s" fill="freeze" />
     </rect>
-    <rect x="814" y="55" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="1.64s" dur="0.30s" fill="freeze" />
-      <animate attributeName="y" from="55" to="61" begin="1.64s" dur="0.30s" fill="freeze" />
-    </rect>
-    <rect x="814" y="70" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="1.67s" dur="0.30s" fill="freeze" />
-      <animate attributeName="y" from="70" to="76" begin="1.67s" dur="0.30s" fill="freeze" />
-    </rect>
-    <rect x="814" y="85" width="12" height="12" rx="2" ry="2" fill="#0e4429" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.30s" fill="freeze" />
-      <animate attributeName="y" from="85" to="91" begin="1.70s" dur="0.30s" fill="freeze" />
-    </rect>
-    <rect x="814" y="100" width="12" height="12" rx="2" ry="2" fill="#26a641" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="1.73s" dur="0.30s" fill="freeze" />
-      <animate attributeName="y" from="100" to="106" begin="1.73s" dur="0.30s" fill="freeze" />
-    </rect>
-    <rect x="814" y="115" width="12" height="12" rx="2" ry="2" fill="#39d353" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="1.76s" dur="0.30s" fill="freeze" />
-      <animate attributeName="y" from="115" to="121" begin="1.76s" dur="0.30s" fill="freeze" />
-    </rect>
-    <rect x="814" y="130" width="12" height="12" rx="2" ry="2" fill="#161b22" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="1.79s" dur="0.30s" fill="freeze" />
-      <animate attributeName="y" from="130" to="136" begin="1.79s" dur="0.30s" fill="freeze" />
-    </rect>
   </g>
   <g id="footer">
-    <text x="34" y="172" class="footer-text">86 contributions in the last year</text>
+    <text x="34" y="172" class="footer-text">91 contributions in the last year</text>
     <text x="670" y="172" class="label-text">Less</text>
     <rect x="705" y="162" width="12" height="12" rx="2" ry="2" fill="#161b22" />
     <rect x="722" y="162" width="12" height="12" rx="2" ry="2" fill="#0e4429" />
